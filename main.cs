@@ -1,3 +1,4 @@
+// primeiro trabalho de linguagem de programação
 using System;
 
 class Aula1 {
@@ -21,9 +22,6 @@ static double [] zeros(
   return z;
   }
 )
-
-
-
   
 public static void Main (string[] args)  {
   // int v = 0;
